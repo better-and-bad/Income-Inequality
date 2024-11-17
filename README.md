@@ -10,12 +10,7 @@ What trends emerge when evaluating adjusted income data over time?
 How can accurate metrics inform better economic policy?
 
 ## Data
-Source
-The data in this analysis originates from the U.S. Census Bureau and other publicly available datasets on income and transfers.
-
-## Files
-[Income Quintiles](income_quintiles_5.xlsx)
-Contains the original, unadjusted income data from the Census Bureau.
+[Income Quintiles](income_quintiles_5.xlsx) data comes from the Tax Policy Center. I came away with the same results as The Myth of American Inequality book by John Early et al.
 
 ## Setup
 Requirements
