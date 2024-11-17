@@ -1,7 +1,7 @@
 # Income Inequality
 
 ## Overview
-Income inequality is frequently misunderstood due to horrible reporting methodologies. 
+This repo exists because I wanted to see if income inequality is actually 25% its reported value of John Early et al assert in their book The Myth of American Inequality. Turns out they're right! Download the data from the Tax Policy Center and downloaded my code and see for yourself!
 
 ## Key questions addressed:
 
